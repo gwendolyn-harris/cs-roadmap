@@ -4,7 +4,6 @@
 
 ### Intro to CS
 
-- [ ] [CS50 - Introduction to Computer Science - Harvard](cs50.tv/)
 - [ ] [6.0001 - Introduction to Computer Science and Programming in Python, Fall 2016 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 - [ ] [6.0002 - Introduction to Computational Thinking and Data Science, Fall 2016 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 
